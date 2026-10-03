@@ -48,7 +48,7 @@ The objective is to analyze sales performance using Microsoft Excel and build a 
 ## 📌 Key Performance Indicators
 | KPI | Value |
 |---|---:|
-| Total Orders | ₹100 |
+| Total Orders | 100 |
 | Total Revenue | ₹40,80,360 |
 | Total Profit | ₹7,13,139.25 |
 | Total Quantity | 557 |
